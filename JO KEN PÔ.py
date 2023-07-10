@@ -31,7 +31,7 @@ elif choicePlayer == 3 and choiceComputer == 'TESOURA':
     print('\033[1;36;40m     EMPATE, FOI POR POUCO, HE HE HE.        \033[m')
 elif choicePlayer == 1 and choiceComputer == 'PAPEL':
     time.sleep(1)
-    print('\033[1;36;40m     BEM, JO KEN PÔ!                         \033[m')
+    print('\033[1;36;40m     MUITO BEM, JO KEN PÔ!                   \033[m')
     time.sleep(1)
     print('\033[1;36;40m     PEDRA VS PAPEL.                         \033[m')
     print('\033[1;36;40m     GANHEI DE VOCÊ, ISSO FOI FÁCIL HA HA HA.\033[m')
@@ -67,7 +67,7 @@ elif choicePlayer == 3 and choiceComputer == 'PAPEL':
     time.sleep(1)
     print('\033[1;36;40m     TESOURA VS PAPEL.                       \033[m')
     print('\033[1;36;40m     NÃÃÃO FUI DERROTADO, AHHH.              \033[m')
-    print('\033[1;36;40m     PARABÉNS, VOCÊ DERROTOU O RE            \033[m')
+    print('\033[1;36;40m     PARABÉNS, VOCÊ DERROTOU O REI.          \033[m')
 elif choicePlayer == 4:
     time.sleep(1)
     print('\033[1;36;40m     HA HA HA, FRACOTE.                      \033[m\n\033[1;36;40m     GAME OVER.                              \033[m')
